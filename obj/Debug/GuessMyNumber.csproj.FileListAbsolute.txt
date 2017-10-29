@@ -1,0 +1,7 @@
+D:\_projekty\c_sharp\GuessMyNumber\bin\Debug\GuessMyNumber.exe.config
+D:\_projekty\c_sharp\GuessMyNumber\bin\Debug\GuessMyNumber.exe
+D:\_projekty\c_sharp\GuessMyNumber\bin\Debug\GuessMyNumber.pdb
+D:\_projekty\c_sharp\GuessMyNumber\obj\Debug\GuessMyNumber.csprojResolveAssemblyReference.cache
+D:\_projekty\c_sharp\GuessMyNumber\obj\Debug\GuessMyNumber.csproj.CoreCompileInputs.cache
+D:\_projekty\c_sharp\GuessMyNumber\obj\Debug\GuessMyNumber.exe
+D:\_projekty\c_sharp\GuessMyNumber\obj\Debug\GuessMyNumber.pdb
